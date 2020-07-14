@@ -1,21 +1,11 @@
-<h1 align="center"> Hello!! Tâm nè 👋</h1>
+<h1 align="center">👋 Hello!! Tâm nè <img src="./img/TTP.jpg" alt="Tam ne" style="width:30px;height:30px;"/> </h1>
 
-<!--![img](./img/tamne.jpg)-->
-
-
-
-```
-<p align="center"> <img src="https://github.com/ThanhTamPotter/ThanhTamPotter/blob/master/img/tamne.jpg"></p>
-```
-
-
-
-
-
-
-
-
-
+</p>
+<p align="center"> 
+    <a>
+        <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif"/>
+    </a>
+</p>
 
 
 <!--
