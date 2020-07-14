@@ -1,6 +1,22 @@
 <h1 align="center"> Hello!! Tâm nè 👋</h1>
 
-![img](./img/tamne.jpg)
+<!--![img](./img/tamne.jpg)-->
+
+
+
+```
+<p align="center"> <img src="https://github.com/ThanhTamPotter/ThanhTamPotter/blob/master/img/tamne.jpg"></p>
+```
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **ThanhTamPotter/ThanhTamPotter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
