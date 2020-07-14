@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello!! Tâm nè <img src="img/tamne32x32.png" alt="Tam ne" </h1>
+<h1 align="center">👋 Hello!! Tâm nè <img src="https://raw.githubusercontent.com/ThanhTamPotter/ThanhTamPotter/master/img/tamne32x32.png" alt="Tam ne" </h1>
 </p>
 <p align="center"> 
     <a>
